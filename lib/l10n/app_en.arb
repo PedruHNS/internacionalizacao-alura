@@ -1,0 +1,53 @@
+{
+    "@@locale": "en",
+    "dashboardEnterButton": "Start",
+    "@dashboardEnterButton": {
+        "description": "Botão 'entrar da tela de dashboard'"
+    },
+    "dashboardCarousel01": "Register your books",
+    "@dashboardCarousel01": {
+        "description": "1º imagem do carrossel da tela de dashboard"
+    },
+    "dashboardCarousel02": "Take notes",
+    "@dashboardCarousel02": {
+        "description": "2º imagem do carrossel da tela de dashboard"
+    },
+    "dashboardCarousel03": "View your progress",
+    "@dashboardCarousel03": {
+        "description": "3º imagem do carrossel da tela de dashboard"
+    },
+    "sugestionEmail": "youremail@domain.com",
+    "@sugestionEmail": {
+        "description": "sugestão do email"
+    },
+    "inputPassword": "Password",
+    "@inputPassword": {
+        "description": "hint do input de senha"
+    },
+    "buttonForgotPassword": "Forgot Password",
+    "@buttonForgotPassword": {
+        "description": "hint de esqueci a senha"
+    },
+    "buttonSignIn": "Sign In",
+    "@buttonSignIn": {
+        "description": "botão entrar tela de login"
+    },
+    "buttonRegister": "Register",
+    "@buttonRegister": {
+        "description": "botão para se inscrever"
+    },
+    "textSignUp": "Sign Up",
+    "@textSignUp": {
+        "description": "texto da tela de registro"
+    },
+    "inputName": "Name",
+    "@inputName": {
+        "description": "hint do input de senha"
+    },
+    "sugestionName": "Your name here",
+    "@sugestionName": {
+        "description": "sugestão do nome"
+    }
+
+    
+}

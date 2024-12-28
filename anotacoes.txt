@@ -1,0 +1,4 @@
+splash -> internacionalização concluida
+login -> internacionalização concluida
+register -> internacionalização concluida
+dashboard -> internacionalização concluida
